@@ -4,6 +4,9 @@ Um overlay transparente e leve para Windows que adiciona penduricalhos animado c
 
 ---
 
+## 💾 Download Rápido
+Se não quiser instalar o Python, baixa a versão pronta em `.exe` na aba [Releases](../../releases)!
+
 ## 🚀 Funcionalidades
 
 * **Física Dinâmica:** Movimentação natural com gravidade, mola, rigidez e rotação baseada no movimento do mouse.
