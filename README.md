@@ -5,9 +5,7 @@ Um overlay transparente e leve para Windows que adiciona penduricalhos animado c
 ---
 
 ## 💾 Download Rápido
-Se não quiser instalar o Python, baixa a versão pronta em `.exe` na aba [Releases](../../releases)!
-Se quiser que o Icone da barra de tarefas seja o mesmo, salva o .exe em uma pasta junto com o .ico que tem ai no post (emoji de joinha).
-Ou melhor, vou colocar um .zip com tudo as coisas ai dentro, baixe o "PenduriCursorV1.zip" extraia a pasta em algum canto e rode o .exe dela, gg.
+Faça o dowload apenas do arquivo .zip "PenduriCursor.zip" extraia e pronto!
 
 ## 🚀 Funcionalidades
 
